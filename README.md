@@ -1,194 +1,219 @@
 <div align="center">
 
-  <!-- Header Dynamic Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=260&section=header&text=Pushpendra%20Sachan&fontSize=52&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20Freelance%20Consultant&descFontSize=20&descAlignY=60&stroke=00f2fe&strokeWidth=2" width="100%" />
+  <!-- 🌟 Top Cyber Dynamic Wave Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,12,18,24&height=250&section=header&text=Pushpendra%20Sachan&fontSize=52&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20Freelance%20Consultant&descFontSize=19&descAlignY=59&stroke=00F2FE&strokeWidth=2" width="100%" />
 
-  <!-- Dynamic Typing Effect -->
+  <!-- ⚡ Animated Dynamic Typing -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hey+there!+Welcome+to+my+Engineering+Hub+%F0%9F%91%8B;Building+Production-Ready+AI%2FML+%26+Deep+Learning+Models;Full+Stack+Architecture+%7C+High-Throughput+APIs+%7C+Mobile;Available+for+Freelance+Projects+%26+Consulting+%F0%9F%92%BC;IoT%2C+RFID+Hardware+Automation+%26+Enterprise+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%9A%A1+AI+%26+Deep+Learning+Solutions+Architect;%F0%9F%9A%80+Full-Stack+Web+%26+Mobile+Engineering;%F0%9F%93%A1+IoT%2C+RFID+Hardware+%26+Telemetry+Systems;%F0%9F%92%BC+Open+for+High-Impact+Freelance+Projects" alt="Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Status & Quick Badges -->
+  <!-- 🎯 Status & Quick CTAs -->
   <p align="center">
-    <a href="https://github.com/Pushpendera5"><img src="https://img.shields.io/badge/Status-Available%20for%20Freelance-00C853?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-    <a href="mailto:pushpendrasachan.dev@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Pushpendera5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:pushpendrasachan.dev@gmail.com"><img src="https://img.shields.io/badge/Freelance-Available_For_Hire-00E676?style=for-the-badge&logo=upwork&logoColor=black" /></a>
+    <a href="mailto:pushpendrasachan.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Direct_Inquiry-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/Pushpendera5"><img src="https://img.shields.io/badge/GitHub-Pushpendera5-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
+
+  <!-- 📊 Live Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=Pushpendera5&label=Profile%20Views&color=00f2fe&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-### 💼 Freelance Services & What I Offer
+### 🗺️ Visual Architecture & Development Workflow
 
-> **Need high-impact, production-ready software delivered fast?**  
-> I collaborate with startups, business founders, and established teams across the globe as an independent consultant and developer.
+```mermaid
+flowchart LR
+    subgraph S1["1. Client Vision & Discovery"]
+        A[🎯 Problem & Requirements] --> B[📋 Architecture & Tech Stack]
+    end
+
+    subgraph S2["2. Core Engineering"]
+        B --> C[🧠 AI/ML & OCR Pipelines]
+        B --> D[⚙️ Scalable Backend & APIs]
+        B --> E[📡 IoT / RFID Hardware Link]
+    end
+
+    subgraph S3["3. User Experience"]
+        C --> F[🖥️ Modern Web & Mobile UI]
+        D --> F
+        E --> F
+    end
+
+    subgraph S4["4. Delivery & Production"]
+        F --> G[🚀 Testing, Docker & Deployment]
+        G --> H[🏆 Production Client Launch]
+    end
+
+    style S1 fill:#161b22,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style S2 fill:#161b22,stroke:#7928ca,stroke-width:2px,color:#fff
+    style S3 fill:#161b22,stroke:#ff0080,stroke-width:2px,color:#fff
+    style S4 fill:#161b22,stroke:#00e676,stroke-width:2px,color:#fff
+```
+
+---
+
+### 💼 Freelance Services & Capabilities Matrix
 
 <div align="center">
 
-| 🚀 AI & Intelligent Automation | 🌐 Full-Stack Web Development | 📱 Cross-Platform Mobile Apps | 📡 IoT & Hardware Integration |
+| 🤖 AI / ML & Automation | 🌐 Full-Stack Web Systems | 📱 Cross-Platform Mobile | 📡 IoT & RFID Hardware |
 | :---: | :---: | :---: | :---: |
-| Custom LLM & GenAI pipelines, OCR document parsers, predictive analytics, vision models | Scalable backends, REST/GraphQL APIs, microservices, interactive React & modern frontends | Smooth, cross-platform apps using Flutter & native Android (Kotlin), offline-first sync | RFID UHF readers, BLE, automated inventory tracking & handheld terminal software |
+| <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /><br/>• Computer Vision & OCR<br/>• Intelligent Document Parsing<br/>• Custom Automation Pipelines | <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,fastapi" /><br/>• High-Throughput APIs<br/>• Modern Web Apps (React/Vite)<br/>• Microservices Architecture | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" /><br/>• Flutter Multi-Platform<br/>• Native Android Modules<br/>• Offline Data Syncing | <img src="https://skillicons.dev/icons?i=cs,c,linux" /><br/>• UHF RFID Tag Readers<br/>• Handheld Device SDKs<br/>• Warehouse & Retail Telemetry |
 
 </div>
 
-#### ⚡ Why Work With Me?
-- **End-to-End Ownership:** From UI/UX, backend architecture, and database design to deployment and hardware integration.
-- **Production-Grade Delivery:** Clean code, robust test coverage, detailed documentation, and maintainable modular architecture.
-- **Fast Turnaround & Clear Communication:** Regular progress updates, milestone tracking, and transparent delivery cycles.
-- 📩 **Ready to discuss your project?** Reach out at [pushpendrasachan.dev@gmail.com](mailto:pushpendrasachan.dev@gmail.com) or connect on LinkedIn!
+<div align="center">
 
----
-
-### 👨‍💻 Engineering Snapshot
-
-```yaml
-Developer Profile:
-  Full Name: Pushpendra Sachan
-  Role: AI/ML Engineer | Full-Stack Architect | Freelance Consultant
-  Experience Focus: Intelligent Applications, Computer Vision, High-Scale Web & IoT
-  Client Value: Turning complex business challenges into seamless digital products
-  Availability: Contract Work, Freelance Projects, Remote Consulting, Technical Advisory
+```mermaid
+pie title Freelance Client Engagement Domains
+    "AI/ML & Intelligent Pipelines" : 35
+    "Full-Stack Web & APIs" : 30
+    "IoT & RFID Solutions" : 20
+    "Mobile App Development" : 15
 ```
 
-- 🧠 **AI/ML Focus:** Building AI-powered pipelines (OCR, Computer Vision, Document Intelligence, Custom Automation APIs using FastAPI/Python).
-- 🏗️ **Full Stack Core:** Architecting responsive frontends (React, Modern JS) connected to blazing-fast backend engines (.NET Core, Node.js, FastAPI).
-- 🏷️ **Hardware & IoT:** Designing end-to-end telemetry and asset tracking systems with UHF RFID readers, Handheld terminals, and industrial scanners.
-- 💬 **Ask me about:** AI model deployments, Enterprise ERP/CRM architecture, Mobile app development, and RFID automation.
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Technology Ecosystem
 
-#### 🧠 Artificial Intelligence, Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR%20Engines-Tesseract%2FTrOCR-2ea44f?style=for-the-badge" />
+<div align="center">
+
+#### 🧠 Artificial Intelligence, Machine Learning & Vision
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,scikitlearn" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Document_AI-Tesseract_%26_TrOCR-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science-Pandas_%26_NumPy-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-Neural_Networks-EE4C2C?style=for-the-badge" />
 </p>
 
-#### 🌐 Full-Stack & Backend Systems
-<p>
-  <img src="https://img.shields.io/badge/.NET_Core_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+#### ⚡ Full-Stack Web & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,react,vite,nodejs,express,ts,js,html,css,tailwind" />
 </p>
 
-#### 📱 Mobile, IoT & Embedded Integration
-<p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/UHF_RFID_Systems-Industrial%20Tracking-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardware%20APIs-Handheld%20SDKs-critical?style=for-the-badge" />
+#### 📱 Mobile, IoT & Embedded Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,linux" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hardware-UHF_RFID_Readers-007ACC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal_SDK-Seuic_Handhelds-00C853?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Standard-ATA_Spec_2000-FF9100?style=for-the-badge" />
 </p>
 
-#### 🗄️ Databases, Cloud & DevOps Tools
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+#### 🗄️ Databases, Cloud & Tooling
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker,git,github,postman,vscode" />
 </p>
+
+</div>
 
 ---
 
-### 🚀 Highlighted Work & Case Studies
+### 🏆 Featured Production Projects
 
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🤖 CardAI-CRM (AI-Powered)</h3>
-      <p align="center">
-        <a href="https://github.com/Pushpendera5/CardAI-CRM"><b>View Source Code →</b></a>
-      </p>
-      <p>Intelligent AI business card scanner and CRM system. Implements automated image preprocessing, optical character recognition (OCR), and entity extraction with a FastAPI backend to eliminate manual data entry.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>FastAPI</code> <code>Computer Vision / OCR</code> <code>ML Pipelines</code></p>
+      <div align="center">
+        <h3>🤖 CardAI-CRM (AI Engine)</h3>
+        <img src="https://skillicons.dev/icons?i=python,fastapi,html" />
+      </div>
+      <br/>
+      • <b>Category:</b> AI Document Intelligence & Automation<br/>
+      • <b>Core Feat:</b> OCR business card image processing, automated entity extraction, smart CRM ingestion.<br/>
+      • <b>Repository:</b> <a href="https://github.com/Pushpendera5/CardAI-CRM"><b>Pushpendera5/CardAI-CRM ↗</b></a>
     </td>
     <td width="50%">
-      <h3 align="center">📦 Bucket RFID Store (Enterprise)</h3>
-      <p align="center">
-        <a href="https://github.com/Pushpendera5/bucket-rfid-store"><b>View Source Code →</b></a>
-      </p>
-      <p>High-performance RFID-based retail inventory management suite featuring POS, Goods Received Notes (GRN), automated stock updates, and live UHF RFID tag stream monitoring.</p>
-      <p><b>Tech:</b> <code>ASP.NET Core 10</code> <code>React / Vite</code> <code>Live RFID Feed</code> <code>REST</code></p>
+      <div align="center">
+        <h3>📦 Bucket RFID Store (Enterprise)</h3>
+        <img src="https://skillicons.dev/icons?i=dotnet,react,vite" />
+      </div>
+      <br/>
+      • <b>Category:</b> Retail Automation & Live Telemetry<br/>
+      • <b>Core Feat:</b> Full POS, Goods Received Notes (GRN), purchase orders, and real-time UHF RFID stream.<br/>
+      • <b>Repository:</b> <a href="https://github.com/Pushpendera5/bucket-rfid-store"><b>Pushpendera5/bucket-rfid-store ↗</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 TrackMint RFID Tracker</h3>
-      <p align="center">
-        <a href="https://github.com/Pushpendera5/trackmint-rfid-asset-tracker"><b>View Source Code →</b></a>
-      </p>
-      <p>Production-ready enterprise asset tracking mobile application tailored for Seuic AutoID UTouch 2 devices. Real-time scanning, bulk audits, and seamless offline data persistence.</p>
-      <p><b>Tech:</b> <code>Flutter</code> <code>Dart</code> <code>Hardware SDK Integration</code> <code>SQLite</code></p>
+      <div align="center">
+        <h3>📱 TrackMint RFID Tracker</h3>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+      </div>
+      <br/>
+      • <b>Category:</b> Enterprise Mobile App<br/>
+      • <b>Core Feat:</b> Built for industrial handheld scanners (Seuic AutoID UTouch 2) with offline audit caches.<br/>
+      • <b>Repository:</b> <a href="https://github.com/Pushpendera5/trackmint-rfid-asset-tracker"><b>Pushpendera5/trackmint-rfid-asset-tracker ↗</b></a>
     </td>
     <td width="50%">
-      <h3 align="center">🎯 Trace & Track Enterprise</h3>
-      <p align="center">
-        <a href="https://github.com/Pushpendera5/TRACE-AND-TRACK"><b>View Source Code →</b></a>
-      </p>
-      <p>Industrial asset tracking and telemetry platform engineered for high-throughput scanning environments and zero-error physical inventory audits.</p>
-      <p><b>Tech:</b> <code>C#</code> <code>.NET</code> <code>Industrial Automation</code> <code>RFID ATA</code></p>
+      <div align="center">
+        <h3>🎯 Trace & Track Systems</h3>
+        <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+      </div>
+      <br/>
+      • <b>Category:</b> Industrial Telemetry Engine<br/>
+      • <b>Core Feat:</b> High-speed batch RFID scanning & ATA-standard read/write validation pipeline.<br/>
+      • <b>Repository:</b> <a href="https://github.com/Pushpendera5/TRACE-AND-TRACK"><b>Pushpendera5/TRACE-AND-TRACK ↗</b></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+### 📊 Real-Time Performance & Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pushpendera5&show_icons=true&theme=tokyonight&border_radius=12&count_private=true&hide_border=false" width="49%" />
+  <!-- 📈 Dynamic Activity Graphs -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushpendera5&theme=tokyo-night&bg_color=0d1117&color=00f2fe&line=00f2fe&point=ff0080&area=true&hide_border=true" width="98%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- 📊 Stats Cards in Dual Columns -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Pushpendera5&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpendera5&layout=compact&theme=tokyonight&border_radius=12&hide_border=false" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
+  <!-- ⚡ Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushpendera5&theme=tokyonight&border_radius=12&hide_border=false" width="98%" />
 </div>
 
 ---
 
-### 🤝 Let's Build Something Exceptional!
-
-Whether you need an **AI/ML automation solution**, an **enterprise web application**, or **smart IoT/RFID tracking software**, I'm here to bring your vision to life.
+### 🤝 Let's Collaborate on Your Next Big Idea!
 
 <div align="center">
 
+  <p><b>Looking for a reliable freelance partner for AI/ML, Full Stack, or IoT? Let's connect!</b></p>
+
   <a href="mailto:pushpendrasachan.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Hire%20Me%20for%20a%20Project-00F2FE?style=for-the-badge&logo=rocket&logoColor=black" />
+    <img src="https://img.shields.io/badge/⚡_Start_a_Project_Together-00F2FE?style=for-the-badge&logo=rocket&logoColor=black" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <!-- Footer Wave Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11,18,24&height=120&section=footer" width="100%" />
+  <!-- 🌟 Animated Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8,12,18,24&height=120&section=footer" width="100%" />
 
-  <sub>Crafted with ⚡ and engineering precision by <b>Pushpendra Sachan</b></sub>
+  <sub>Crafted with precision & passion by <b>Pushpendra Sachan</b></sub>
 
 </div>
