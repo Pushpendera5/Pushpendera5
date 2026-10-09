@@ -25,15 +25,36 @@
 
 ---
 
-### Architecture & Development Pipeline
+### Visual Architecture & Development Workflow
 
-<div align="center">
+```mermaid
+flowchart LR
+    subgraph S1["1. Client Vision & Discovery"]
+        A[Problem & Requirements] --> B[Architecture & Tech Stack]
+    end
 
-| Phase 01 | ➔ | Phase 02 | ➔ | Phase 03 | ➔ | Phase 04 |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://img.shields.io/badge/01_Discovery-Problem_%26_Scope-00F2FE?style=for-the-badge" /><br/><sub>System Architecture & Tech Roadmap</sub> | ➔ | <img src="https://img.shields.io/badge/02_Intelligence-AI%2C_ML_%26_Vision-FF007F?style=for-the-badge" /><br/><sub>Custom Models, OCR & Deep Learning</sub> | ➔ | <img src="https://img.shields.io/badge/03_Engineering-Backend_%26_Telemetry-7928CA?style=for-the-badge" /><br/><sub>High-Speed APIs & RFID Edge Sync</sub> | ➔ | <img src="https://img.shields.io/badge/04_Launch-Cloud_%26_Production-00E676?style=for-the-badge" /><br/><sub>Dockerized CI/CD & Client Handover</sub> |
+    subgraph S2["2. Core Engineering"]
+        B --> C[AI/ML & OCR Pipelines]
+        B --> D[Scalable Backend & APIs]
+        B --> E[IoT / RFID Hardware Link]
+    end
 
-</div>
+    subgraph S3["3. User Experience"]
+        C --> F[Modern Web & Mobile UI]
+        D --> F
+        E --> F
+    end
+
+    subgraph S4["4. Delivery & Production"]
+        F --> G[Testing, Docker & Deployment]
+        G --> H[Production Client Launch]
+    end
+
+    style S1 fill:#161b22,stroke:#00f2fe,stroke-width:2px,color:#fff
+    style S2 fill:#161b22,stroke:#7928ca,stroke-width:2px,color:#fff
+    style S3 fill:#161b22,stroke:#ff0080,stroke-width:2px,color:#fff
+    style S4 fill:#161b22,stroke:#00e676,stroke-width:2px,color:#fff
+```
 
 ---
 
@@ -47,16 +68,15 @@
 
 </div>
 
-<br/>
-
 <div align="center">
 
-| Domain Focus | Specialty | Implementation |
-| :--- | :--- | :--- |
-| **Artificial Intelligence** | Intelligent OCR, Vision Models, LLM Automation | FastAPI, PyTorch, OpenCV, Transformers |
-| **Full Stack & Cloud** | Microservices, High-Speed APIs, Real-time Feeds | ASP.NET Core 10, React, Node.js, Vite |
-| **Edge Hardware / IoT** | UHF RFID Stream Processing, Terminal Integration | C#, Handheld SDKs, Android Native (Kotlin) |
-| **Mobile Applications** | Cross-Platform Enterprise Field Applications | Flutter, Dart, SQLite Offline Sync |
+```mermaid
+pie title Freelance Client Engagement Domains
+    "AI/ML & Intelligent Pipelines" : 35
+    "Full-Stack Web & APIs" : 30
+    "IoT & RFID Solutions" : 20
+    "Mobile App Development" : 15
+```
 
 </div>
 
