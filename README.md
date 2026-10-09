@@ -25,11 +25,55 @@
 
 ---
 
-### Visual Architecture & Development Workflow
+### Architecture & Development Pipeline
 
-<p align="center">
-  <img src="https://mermaid.ink/svg/pako:eNqNk19v2jAUxb_KlZHyBDQJiHZ5mAQJtJFAQ0C3h7gPjnNDLIydOc4oqvrdp0D3J1O21W--Ovd3rn3sF8J1hiQgudQnXjBjYbmhCgCgqtO9YWUBWy-hxBtCKAUqC59FJbQCByJRcf0NzZmSp2tLs6YJJWujU4lHcGCDX2th8IjKVpQ8wWDwEWYJJVPDC2GR29ogOLBDXsDWMn74yUKVUfXnJH5CiT-EUBuEudoLhWiE2rcGmF1MwsYkvlktwYFP4QbWokQpFFYd2iihZMuZZKlEmDF-QJWBA9N13KWeJ5TEegc3sFnEETwwk52YQVgK9Z_pRwkloyE8Vmhg_lyiEag4tizCi8UioWSlMzQKvmAKDqx0KiTCY9wSR1fxr8L890LnCOOEkvEQIpSiSQ4cWBud1dwKrVrsxQV1n1Cyw8oKte9DpPkBTRM8llKfm0xbLfeXlodr_m_MH49myWrFi87rsWeJsPUgF1IGPW_ipb7fr6zRBwx6rpv7Ob5tByeR2SLwy-c-11KboJfneYvid1NuP_h3nL2bMuqm5Lnr3rnvpoz_diKc3E7-RSF9ckRzZCIjwQuxBR6bD5oxcyCvr98BAEUeVA" alt="Visual Architecture & Development Workflow" width="100%" />
-</p>
+<div align="center">
+
+```mermaid
+graph LR
+    classDef client fill:#0d1117,stroke:#00F2FE,stroke-width:2.5px,color:#00F2FE;
+    classDef ai fill:#0d1117,stroke:#FF007F,stroke-width:2.5px,color:#FF007F;
+    classDef fullstack fill:#0d1117,stroke:#7928CA,stroke-width:2.5px,color:#A779E9;
+    classDef iot fill:#0d1117,stroke:#FF9900,stroke-width:2.5px,color:#FF9900;
+    classDef ui fill:#0d1117,stroke:#00E5FF,stroke-width:2.5px,color:#00E5FF;
+    classDef deploy fill:#0d1117,stroke:#00E676,stroke-width:2.5px,color:#00E676;
+
+    Client["Discovery & Scope"]:::client --> Arch["System Architecture"]:::client
+
+    Arch --> AI["AI & Computer Vision"]:::ai
+    Arch --> API["Distributed APIs"]:::fullstack
+    Arch --> IoT["Hardware Telemetry"]:::iot
+
+    AI --> UI["Cross-Platform Apps"]:::ui
+    API --> UI
+    IoT --> UI
+
+    UI --> Cloud["CI/CD & Cloud Launch"]:::deploy
+```
+
+</div>
+
+---
+
+### Interactive Terminal Simulation
+
+<div align="center">
+
+```
+┌──(pushpendra㉿workstation)-[~/production-hub]
+└─$ ./run_pipeline.sh --mode=client-delivery
+
+[+] Target: High-Performance Enterprise Architecture
+[✓] AI Pipeline Loaded ...... Computer Vision & Intelligent OCR (FastAPI + PyTorch)
+[✓] Core Backends ........... ASP.NET Core 10 / Node.js Microservices [ACTIVE]
+[✓] Edge Hardware Link ...... UHF RFID Handheld Scanner Telemetry [SYNCHRONIZED]
+[✓] Frontend Interface ...... React 19 + Flutter Multi-Platform UI [ONLINE]
+[✓] Production Status ....... High-Throughput & Zero-Downtime Ready!
+
+[★] Status: Available for Freelance Contracts & Architectural Consulting.
+```
+
+</div>
 
 ---
 
@@ -43,11 +87,16 @@
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<p align="center">
-  <img src="https://mermaid.ink/svg/pako:eNo9z7tqw0AUhOFXGU6hKiE33KgTUQQLMZjYkEbNWhqUg89ekNdpjN_dKInTTfEV859lSCOllqxE0WJEN5Pm40C8mjIWvMXJTwzLbFPwGo99BIBeGvewfkcFFwvNdFrIRjNNI4-9oMbL6ma7k9n9tvjhgE_uUaHZuD_zeDMu7VDho3MttslORVP8Jc__ZJ32akSTM1p-01Jejv2gp5XcSeAcvI5Sn6V8MSxpo58PcrlcAUtlSPU" alt="Freelance Client Engagement Domains" width="450" />
-</p>
+| Domain Focus | Specialty | Implementation |
+| :--- | :--- | :--- |
+| **Artificial Intelligence** | Intelligent OCR, Vision Models, LLM Automation | FastAPI, PyTorch, OpenCV, Transformers |
+| **Full Stack & Cloud** | Microservices, High-Speed APIs, Real-time Feeds | ASP.NET Core 10, React, Node.js, Vite |
+| **Edge Hardware / IoT** | UHF RFID Stream Processing, Terminal Integration | C#, Handheld SDKs, Android Native (Kotlin) |
+| **Mobile Applications** | Cross-Platform Enterprise Field Applications | Flutter, Dart, SQLite Offline Sync |
 
 </div>
 
