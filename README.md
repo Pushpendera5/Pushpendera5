@@ -27,34 +27,9 @@
 
 ### Visual Architecture & Development Workflow
 
-```mermaid
-flowchart LR
-    subgraph S1["1. Client Vision & Discovery"]
-        A[Problem & Requirements] --> B[Architecture & Tech Stack]
-    end
-
-    subgraph S2["2. Core Engineering"]
-        B --> C[AI/ML & OCR Pipelines]
-        B --> D[Scalable Backend & APIs]
-        B --> E[IoT / RFID Hardware Link]
-    end
-
-    subgraph S3["3. User Experience"]
-        C --> F[Modern Web & Mobile UI]
-        D --> F
-        E --> F
-    end
-
-    subgraph S4["4. Delivery & Production"]
-        F --> G[Testing, Docker & Deployment]
-        G --> H[Production Client Launch]
-    end
-
-    style S1 fill:#161b22,stroke:#00f2fe,stroke-width:2px,color:#fff
-    style S2 fill:#161b22,stroke:#7928ca,stroke-width:2px,color:#fff
-    style S3 fill:#161b22,stroke:#ff0080,stroke-width:2px,color:#fff
-    style S4 fill:#161b22,stroke:#00e676,stroke-width:2px,color:#fff
-```
+<p align="center">
+  <img src="https://mermaid.ink/svg/pako:eNqNk19v2jAUxb_KlZHyBDQJiHZ5mAQJtJFAQ0C3h7gPjnNDLIydOc4oqvrdp0D3J1O21W--Ovd3rn3sF8J1hiQgudQnXjBjYbmhCgCgqtO9YWUBWy-hxBtCKAUqC59FJbQCByJRcf0NzZmSp2tLs6YJJWujU4lHcGCDX2th8IjKVpQ8wWDwEWYJJVPDC2GR29ogOLBDXsDWMn74yUKVUfXnJH5CiT-EUBuEudoLhWiE2rcGmF1MwsYkvlktwYFP4QbWokQpFFYd2iihZMuZZKlEmDF-QJWBA9N13KWeJ5TEegc3sFnEETwwk52YQVgK9Z_pRwkloyE8Vmhg_lyiEag4tizCi8UioWSlMzQKvmAKDqx0KiTCY9wSR1fxr8L890LnCOOEkvEQIpSiSQ4cWBud1dwKrVrsxQV1n1Cyw8oKte9DpPkBTRM8llKfm0xbLfeXlodr_m_MH49myWrFi87rsWeJsPUgF1IGPW_ipb7fr6zRBwx6rpv7Ob5tByeR2SLwy-c-11KboJfneYvid1NuP_h3nL2bMuqm5Lnr3rnvpoz_diKc3E7-RSF9ckRzZCIjwQuxBR6bD5oxcyCvr98BAEUeVA" alt="Visual Architecture & Development Workflow" width="100%" />
+</p>
 
 ---
 
@@ -70,13 +45,9 @@ flowchart LR
 
 <div align="center">
 
-```mermaid
-pie title Freelance Client Engagement Domains
-    "AI/ML & Intelligent Pipelines" : 35
-    "Full-Stack Web & APIs" : 30
-    "IoT & RFID Solutions" : 20
-    "Mobile App Development" : 15
-```
+<p align="center">
+  <img src="https://mermaid.ink/svg/pako:eNo9z7tqw0AUhOFXGU6hKiE33KgTUQQLMZjYkEbNWhqUg89ekNdpjN_dKInTTfEV859lSCOllqxE0WJEN5Pm40C8mjIWvMXJTwzLbFPwGo99BIBeGvewfkcFFwvNdFrIRjNNI4-9oMbL6ma7k9n9tvjhgE_uUaHZuD_zeDMu7VDho3MttslORVP8Jc__ZJ32akSTM1p-01Jejv2gp5XcSeAcvI5Sn6V8MSxpo58PcrlcAUtlSPU" alt="Freelance Client Engagement Domains" width="450" />
+</p>
 
 </div>
 
