@@ -29,49 +29,9 @@
 
 <div align="center">
 
-```mermaid
-graph LR
-    classDef client fill:#0d1117,stroke:#00F2FE,stroke-width:2.5px,color:#00F2FE;
-    classDef ai fill:#0d1117,stroke:#FF007F,stroke-width:2.5px,color:#FF007F;
-    classDef fullstack fill:#0d1117,stroke:#7928CA,stroke-width:2.5px,color:#A779E9;
-    classDef iot fill:#0d1117,stroke:#FF9900,stroke-width:2.5px,color:#FF9900;
-    classDef ui fill:#0d1117,stroke:#00E5FF,stroke-width:2.5px,color:#00E5FF;
-    classDef deploy fill:#0d1117,stroke:#00E676,stroke-width:2.5px,color:#00E676;
-
-    Client["Discovery & Scope"]:::client --> Arch["System Architecture"]:::client
-
-    Arch --> AI["AI & Computer Vision"]:::ai
-    Arch --> API["Distributed APIs"]:::fullstack
-    Arch --> IoT["Hardware Telemetry"]:::iot
-
-    AI --> UI["Cross-Platform Apps"]:::ui
-    API --> UI
-    IoT --> UI
-
-    UI --> Cloud["CI/CD & Cloud Launch"]:::deploy
-```
-
-</div>
-
----
-
-### Interactive Terminal Simulation
-
-<div align="center">
-
-```
-┌──(pushpendra㉿workstation)-[~/production-hub]
-└─$ ./run_pipeline.sh --mode=client-delivery
-
-[+] Target: High-Performance Enterprise Architecture
-[✓] AI Pipeline Loaded ...... Computer Vision & Intelligent OCR (FastAPI + PyTorch)
-[✓] Core Backends ........... ASP.NET Core 10 / Node.js Microservices [ACTIVE]
-[✓] Edge Hardware Link ...... UHF RFID Handheld Scanner Telemetry [SYNCHRONIZED]
-[✓] Frontend Interface ...... React 19 + Flutter Multi-Platform UI [ONLINE]
-[✓] Production Status ....... High-Throughput & Zero-Downtime Ready!
-
-[★] Status: Available for Freelance Contracts & Architectural Consulting.
-```
+| Phase 01 | ➔ | Phase 02 | ➔ | Phase 03 | ➔ | Phase 04 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/01_Discovery-Problem_%26_Scope-00F2FE?style=for-the-badge" /><br/><sub>System Architecture & Tech Roadmap</sub> | ➔ | <img src="https://img.shields.io/badge/02_Intelligence-AI%2C_ML_%26_Vision-FF007F?style=for-the-badge" /><br/><sub>Custom Models, OCR & Deep Learning</sub> | ➔ | <img src="https://img.shields.io/badge/03_Engineering-Backend_%26_Telemetry-7928CA?style=for-the-badge" /><br/><sub>High-Speed APIs & RFID Edge Sync</sub> | ➔ | <img src="https://img.shields.io/badge/04_Launch-Cloud_%26_Production-00E676?style=for-the-badge" /><br/><sub>Dockerized CI/CD & Client Handover</sub> |
 
 </div>
 
