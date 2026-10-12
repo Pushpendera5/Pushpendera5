@@ -23,8 +23,6 @@
 
 </div>
 
----
-
 ### Visual Architecture & Development Workflow
 
 ```mermaid
